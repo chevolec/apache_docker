@@ -1,0 +1,4 @@
+[mysqld]
+user = root
+datadir = /var/lib/mysql
+log-error = /var/www/logs/mysql/error.log

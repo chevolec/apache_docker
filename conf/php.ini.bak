@@ -1,0 +1,2 @@
+error_log = /var/www/logs/php/php_errors.log
+

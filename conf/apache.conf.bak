@@ -1,0 +1,5 @@
+<VirtualHost *:80>
+    DocumentRoot /var/www/html
+    ErrorLog /var/www/logs/apache/error.log
+    CustomLog /var/www/logs/apache/access.log combined
+</VirtualHost>
